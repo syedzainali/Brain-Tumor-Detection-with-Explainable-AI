@@ -142,7 +142,7 @@ if image is not None:
     # TAB 1 - PREDICTION
     # =======================
     with tab1:
-        st.image(image, caption="Input MRI", use_container_width=True)
+        st.image(image, caption="Input MRI" , width=300) #, use_container_width=True
 
         st.subheader("Diagnosis Result")
         st.write(f"**Class:** {predicted_label}")
