@@ -37,3 +37,6 @@ __pycache__/
 .env
 .venv/
 venv/
+
+NOTE:
+This project was implemented and extended based on a publicly available Kaggle notebook. I adapted the implementation, built a Streamlit application for interactive inference, resolved deployment issues, and organized the project for reproducibility.
