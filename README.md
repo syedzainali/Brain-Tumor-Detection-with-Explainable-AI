@@ -2,7 +2,7 @@
 
 ## Output Showcase:
 
-The repository includes sample screenshots in the `screenshots/` folder demonstrating:
+The repository includes sample screenshots in the "screenshots" folder demonstrating:
 - Brain MRI prediction results
 - Confidence scores and class probabilities
 - Grad-CAM explainability visualizations
