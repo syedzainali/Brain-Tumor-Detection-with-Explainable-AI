@@ -207,7 +207,7 @@ if image is not None:
             pdf.cell(200, 10, txt=f"Diagnosis: {predicted_label}", ln=True)
             pdf.cell(200, 10, txt=f"Confidence: {confidence:.2f}", ln=True)
 
-            return pdf.output(dest="S").encode("latin-1")
+            return pdf.output(dest="S") #.encode("latin-1")
 
         pdf_data = generate_pdf()
 
