@@ -29,7 +29,6 @@ Test Accuracy: 96%
 ```bash
 streamlit run app.py
 
-#New
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
@@ -37,7 +36,7 @@ __pycache__/
 .env
 .venv/
 venv/
+```bash
 
-
-## **NOTE**:
+## Note:
 This project was implemented and extended based on a publicly available Kaggle notebook. I adapted the implementation, built a Streamlit application for interactive inference, resolved deployment issues, and organized the project for reproducibility.
