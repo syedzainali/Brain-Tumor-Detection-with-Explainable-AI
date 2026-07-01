@@ -26,17 +26,7 @@ Test Accuracy: 96%
 
 ## How to Run
 
-```bash
 streamlit run app.py
-
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-.DS_Store
-.env
-.venv/
-venv/
-```bash
 
 ## Note:
 This project was implemented and extended based on a publicly available Kaggle notebook. I adapted the implementation, built a Streamlit application for interactive inference, resolved deployment issues, and organized the project for reproducibility.
