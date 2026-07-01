@@ -1,5 +1,13 @@
 # Brain Tumor MRI Classification with Explainable AI
 
+## Output Showcase:
+
+The repository includes sample screenshots in the `screenshots/` folder demonstrating:
+- Brain MRI prediction results
+- Confidence scores and class probabilities
+- Grad-CAM explainability visualizations
+- Streamlit application interface
+
 ## Overview
 This project uses EfficientNetB0 and Grad-CAM to classify brain MRI scans into:
 - Glioma
